@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.0.0"
+github "MrAlek/PagedArray" "2a961bb87305f3fedadda5fae4235cd639488b1d"
+github "ashleymills/Reachability.swift" "3c7e72ac66186e2477d07d36e2b4589fb5e855d8"
+github "nodes-ios/Serializable" "bce74cb8e51e99326d8fa9ccc2450124261643de"
+github "nodes-ios/Blobfish" "e3df4d72ada2668be1d60448e23e9774e954acb2"
+github "nodes-ios/Nodes" "a3018663c89b750594cdc0c93c2a37938e09e829"
